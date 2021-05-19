@@ -48,7 +48,7 @@ echo
 echo $green"# nah jika sudah anda bisa upload script deface anda"
 echo
 echo $red" # UNTUK MEMANGGIL SCRIPT"
-echo $white" sites/all/libraries/elfinder/files/namafile.html
+echo $white" sites/all/libraries/elfinder/files/namafile.html"
 echo
    echo " jika bingung anda bisa ketikan kode ( 4444 ) untuk melihat tutorial nya"
 echo
